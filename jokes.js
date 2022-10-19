@@ -199,5 +199,10 @@ const JOKES = [{
         "id": "40",
         "question": "Yaşıyor olsaydı oyunların ek paketlerini asla satın alamayacak şairimiz kimdir?",
         "answer": "Fuzuli"
+    },
+    {
+        "id": "41",
+        "question": "Sinirlenen yazılımcı ne demiş?",
+        "answer": "Kodumun hatası"
     }
 ];
